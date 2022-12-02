@@ -1,4 +1,4 @@
-# DSA-Assignment
+# DSA_Quick_Q&A
 
 Dsa-assignment-edyoda
 Solve these questions in a Jupyter notebook. Share the URL of the Jupyter notebook/GitHub.
